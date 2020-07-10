@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>I'm Polar! &raquo; Community & Social Media Professional</title>
-<meta name="author" content="Brant">
+<meta name="author" content="Polar">
 <link href="assets/css/global.css" rel="stylesheet" media="all"/>
 <script src="https://kit.fontawesome.com/461787f741.js" crossorigin="anonymous"></script>
 </head>
