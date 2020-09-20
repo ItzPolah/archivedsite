@@ -84,3 +84,19 @@ body{
     border: 2px solid #7F00FF
 }
 
+.lower-container .playlist{
+    padding: 12px 20px;
+    background: #1DB954;
+    border: none;
+    color: white;
+    border-radius: 25px;
+    font-size: 20px;
+    text-decoration: none;
+    transition: all .3s ease-in
+}
+
+.lower-container .playlist:hover{
+    background: transparent;
+    color: #1DB954;
+    border: 2px solid #7F00FF
+}
